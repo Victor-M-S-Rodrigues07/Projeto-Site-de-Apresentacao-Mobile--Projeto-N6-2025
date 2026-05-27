@@ -1,4 +1,4 @@
-# <h1 align = "center"> Projeto Mobile-Friendly de Protfólio </h1>
+# <h1 align = "center"> Projeto Mobile-Friendly de Portfólio </h1>
 
 <div align = "center">
 <img src = ".\assets\site-celular.png" alt = "Imagem do site" height = "600">
