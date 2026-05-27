@@ -8,15 +8,16 @@
 
 ## 🗂 Sumário
 
-- [📝 Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao--Projeto-N5-2025#--descri%C3%A7%C3%A3o-do-projeto-)
-- [💻 Acesso ao Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao--Projeto-N5-2025#--acesso-ao-projeto-)
-- [🎯 Objetivos do Curso](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao--Projeto-N5-2025#--objetivos-do-curso-)
-- [⏲ Versão Anterior do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao--Projeto-N5-2025#--vers%C3%A3o-anterior-do-projeto-)
-- [🔗 Protótipo do Projeto no Figma](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao--Projeto-N5-2025#--prot%C3%B3tipo-do-projeto-no-figma-)
-- [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao--Projeto-N5-2025#--tecnologias-utilizadas-)
-- [⚙ Funcionalidades](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao--Projeto-N5-2025#--funcionalidades-)
-- [📂 Estrutura do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao--Projeto-N5-2025#--estrutura-do-projeto-)
-- [✨Créditos](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao--Projeto-N5-2025#-cr%C3%A9ditos-)
+- [📝 Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao-Mobile--Projeto-N6-2025#-descri%C3%A7%C3%A3o-do-projeto)
+- [💻 Acesso ao Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao-Mobile--Projeto-N6-2025#-acesso-ao-site)
+- [🎯 Objetivos do Curso](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao-Mobile--Projeto-N6-2025#-objetivos-do-curso)
+- [⏲ Versão Anterior do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao-Mobile--Projeto-N6-2025#-vers%C3%A3o-anterior-do-projeto)
+- [🔗 Protótipo do Projeto no Figma](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao-Mobile--Projeto-N6-2025#-prot%C3%B3tipo-do-projeto-no-figma)
+- [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao-Mobile--Projeto-N6-2025#-tecnologias-utilizadas)
+- [⚙ Funcionalidades e Inovações](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao-Mobile--Projeto-N6-2025#-funcionalidades-e-inova%C3%A7%C3%B5es)
+- [📂 Estrutura do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao-Mobile--Projeto-N6-2025#-estrutura-do-projeto)
+- [📷 Imagens do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao-Mobile--Projeto-N6-2025#-imagens-do-projeto)
+- [✨Créditos](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao-Mobile--Projeto-N6-2025#-cr%C3%A9ditos)
 
 ## 📝 Descrição do Projeto
 
@@ -42,7 +43,8 @@ Você pode acessar o projeto acessando [esse link do Vercel](https://projeto-de-
 
 A versão anterior desse site pode ser encontrada [aqui](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao--Projeto-N5-2025). <br>
 
-> Nota: Essa é uma série de projetos, no qual em cada versão aplica-se novos conceitos e aprendizados. Foi proposto separar em repositórios diferentes para fins de melhor registro das evoluções e para paridade com cada curso da formação, dado que criar commits sequenciais, apesar de recomendado pelas práticas de mercado, não satisfaria esses objetivos do estudo sequencial do curso.
+> [!NOTE]
+> Essa é uma série de projetos, no qual em cada versão aplica-se novos conceitos e aprendizados. Foi proposto separar em repositórios diferentes para fins de melhor registro das evoluções e para paridade com cada curso da formação, dado que criar commits sequenciais, apesar de recomendado pelas práticas de mercado, não satisfaria esses objetivos do estudo sequencial do curso.
 
 ## 🔗 Protótipo do Projeto no Figma 
 
